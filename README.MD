@@ -2,7 +2,7 @@
 
 A modern real-time chat application with authentication, protected routes, welcome emails, profile image uploads, and a polished React-based interface.
 
-![Demo Screenshot](frontend/public/screenshot-for-readme.png)
+![Demo Screenshot](frontend/public/social_prev.png)
 
 ![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react) ![License](https://img.shields.io/badge/License-ISC-blue) ![Status](https://img.shields.io/badge/Status-Active-success)
 
@@ -182,7 +182,7 @@ The backend exposes the following main routes:
 
 ## Screenshots / Demo
 
-A sample screenshot is included in the repository at [frontend/public/screenshot-for-readme.png](frontend/public/screenshot-for-readme.png).
+A sample screenshot is included in the repository at [frontend/public/screenshot-for-readme.png](frontend/public/social_prev.png).
 
 ## Contributing
 
