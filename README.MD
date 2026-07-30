@@ -4,7 +4,7 @@ A modern real-time chat application with authentication, protected routes, welco
 
 ![Demo Screenshot](frontend/public/social_prev.png)
 
-![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react) ![License](https://img.shields.io/badge/License-ISC-blue) ![Status](https://img.shields.io/badge/Status-Active-success)
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react) ![License](https://img.shields.io/badge/License-MIT-blue) ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## Description
 
